@@ -13,11 +13,11 @@
 
 - Images :
 
-you can add an image by markdown /![img](img adress)
+you can add an image by markdown `![img](img adress)`
 
 - heads :
 
-Use the hashtag to show how important your text are either by /# or /## or /######
+Use the hashtag to show how important your text are either by`# `or `##` or `######`
 
 just like this `### Marah Joudeh`
 
