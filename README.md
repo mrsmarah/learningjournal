@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
-## You can use the hashtag sympol to  the headings
+
+###### You can use the hashtag sympol to  the headings
 
 **Use two stars  at the start and the end of the sentence to make it bold**
 
