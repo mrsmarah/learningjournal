@@ -6,7 +6,9 @@
 *Also using one star will make it italic* ,  ***three stars for an italic bold text***
 
 For the qouting :
+
 -qouting text by adding this sympol before the text \>
+
 -qouting code by adding this sympol before the text \'
 
 For more info:[know more](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
