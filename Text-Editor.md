@@ -25,22 +25,61 @@ efficiently
 
 - Notepad++ : 
 
-[x] free 
-[x] windows computers, 
-[x] syntax highlighting and
-[x] code completion as well as word completion and function completion
+- [x] free 
+- [x] windows computers
+- [x] syntax highlighting
+- [x] code completion as well as word completion and function completion
 
-- Text Wrangler
+- Text Wrangler :
+
+- [x] Mac computers
+- [x] retired in 2017
+
 
 - BB Edit
 
+- [x] a 30-day free trial
+
 - Visual Studio Code 
+
+- [x] free 
+- [x] windows computers
+- [x] Mac computers 
+- [x] Linux computers
+- [x] HTML and CSS
+- [x] syntax highlighting
+- [x] themes
+- [x] extensions 
+- [x] code completion
 
 - Atom
 
+- [x] free 
+- [x] windows computers
+- [x] Mac computers 
+- [x] Linux computers
+- [x] host and review codes
+- [x] syntax highlighting
+- [x] themes
+- [x] extensions
+
 - Brackets
 
+- [x] free 
+- [x] windows computers
+- [x] Mac computers 
+- [x] Linux computers
+- [x] HTML, CSS and JavaScript
+- [x] Live Preview
+
 - Sublime Text
+
+
+- [x] a premium software
+- [x] syntax highlighting
+- [x] themes
+- [x] extensions
+- [x] code completion
 
 
 
