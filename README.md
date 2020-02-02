@@ -1,14 +1,14 @@
 ## Welcome to GitHub Pages
 # Marah Joudeh 
 
-This is my first time in the coding world and I'm liking it , this is my summary about mark down using the mark dowm:
+This is my first time in the coding world and I'm liking it , this is my summary about mark down using the mark down:
 
 
-###### You can use the hashtag sympol to  the headings
+###### You can use the hashtag sympol to  the headings \#
 
-**Use two stars  at the start and the end of the sentence to make it bold**
+**Use two stars  at the start and the end of the sentence to make it bold** \**
 
-*Also using one star will make it italic* ,  ***three stars for an italic bold text***
+*Also using one star will make it italic* \* ,  ***three stars for an italic bold text*** \***
 
 For the qouting :
 
