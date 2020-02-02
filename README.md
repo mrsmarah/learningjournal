@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 # Marah Joudeh 
 
-this is my first time in the coding world and I'm liking it , this is my summary about mark down using the mark dowm:
+This is my first time in the coding world and I'm liking it , this is my summary about mark down using the mark dowm:
 
 
 ###### You can use the hashtag sympol to  the headings
@@ -19,4 +19,4 @@ For the qouting :
 For more info:[know more](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 ###### my github link:
-[github]()
+[github](https://github.com/mrsmarah)
