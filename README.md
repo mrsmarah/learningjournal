@@ -1,4 +1,6 @@
-# Welcome to Marah Joudeh's Pages
+# Welcome to Github Pages
+
+## Marah Joudeh
 
 This is my first time in the coding world and I'm liking it , this is my summary about mark down using the mark down:
 
