@@ -13,9 +13,9 @@ This is my first time in the coding world and I'm liking it , this is my summary
 
 For the qouting :
 
--qouting text by adding this sympol before the text \>
+- qouting text by adding this sympol before the text \>
 
--qouting code by adding this sympol before the text \'
+- qouting code by adding this sympol before the text \'
 
 For more info:[know more](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
