@@ -24,6 +24,7 @@ efficiently
 ###### There is a lot of text editors such as :
 
 - Notepad++ : 
+
 [x] free 
 [x] windows computers, 
 [x] syntax highlighting and
