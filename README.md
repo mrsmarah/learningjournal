@@ -10,5 +10,3 @@ A | [Learning-Markdown](https://mrsmarah.github.io/learningjournal/learning-mark
 B | [Text- Editor](https://mrsmarah.github.io/learningjournal/Text-Editor)
 
 
-
-
