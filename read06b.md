@@ -11,21 +11,21 @@
 ## The main controlling parts of a computer :
  
  
-  ###### Input tools :
+**Input tools :**
   - keybord
   - mouse 
   - touch screen 
   - micrephon 
 
- ###### Storing :
+**Storing :**
   
   Memories
 
- ###### Processing :
+**Processing :**
   
   CPU (Central Processing Unit)
 
- ###### Output tools :
+**Output tools :**
   - Screens
   - Speakers 
   - Signals 
