@@ -18,11 +18,11 @@
 
 ## Logical operators 
 
-&&  And
+`&&`  And
 
-/||  Or
+`||`  Or
 
-!  Not
+`!`  Not
 
 ## Loops :
 
